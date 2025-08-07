@@ -1,5 +1,25 @@
-Sprint	Data de Fim
-00 - Equipes e temas (entrega simultânea nas três UC’s)	25/8
+<table>
+	<th>
+		<td>
+			Sprint
+		</td>
+		<td>
+			Data de Fim
+		</td>
+	</th>
+ 	<tr>
+  		<td>
+			00 - Equipes e temas (entrega simultânea nas três UC’s)
+		</td>
+		<td>
+			25/8
+		</td>
+	</tr>
+	 
+	
+
+</table>
+
 01 - Mapeamento inicial dos requisitos (lista de funcionalidades)
        Mapa de dados	8/9
 02 - Protótipo login e cadastro usuário (https://excalidraw.com/)
@@ -16,4 +36,4 @@ Sprint	Data de Fim
         	17/11
 	1/12
 07 - Defesa técnica do projeto	8/12
-08 - Apresentação do produto	15/12
+08 - Apresentação do produto	15/12	
