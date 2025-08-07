@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Dona Bete",
+      "pontos": 100
+    },
+    {
+      "id": "2",
+      "nome": "Lúcio Fernando",
+      "pontos": 666
+    },
+    {
+      "id": "3",
+      "nome": "Heitor Tuga",
+      "pontos": 22
+    }
+  ]
+}

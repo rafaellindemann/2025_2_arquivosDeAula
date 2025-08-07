@@ -1,0 +1,33 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Dona Bete"
+    },
+    {
+      "id": "2",
+      "nome": "Lúcio Fernando"
+    },
+    {
+      "id": "3",
+      "nome": "Heitor Tuga"
+    }
+  ],
+  "notas": [
+    {
+      "id": "1",
+      "alunoId": "1",
+      "nota": 10
+    },
+    {
+      "id": "2",
+      "alunoId": "2",
+      "nota": 9
+    },
+    {
+      "id": "3",
+      "alunoId": "3",
+      "nota": 8
+    }
+  ]
+}
