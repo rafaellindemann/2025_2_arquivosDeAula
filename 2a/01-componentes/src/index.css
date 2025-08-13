@@ -1,0 +1,12 @@
+/* Sempre que alguém perguntar qual é o css global, me chama */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  /* background-color: aqua; */
+  min-height: 100vh;
+}
