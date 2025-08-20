@@ -3,9 +3,18 @@ import './Navbar.css'
 function Navbar() {
   return (
     <div className='navbar-container'>
-        <a href="">Home</a>
-        <a href="">Contato</a>
-        <a href="">Dashboard</a>
+        <a href="">
+          <img src="./imagens/line-md--home.svg" alt="" />
+          Home
+        </a>
+        <a href="">
+          <img src="./imagens/logos--whatsapp-icon.svg" alt="" />
+          Home
+        </a>
+        <a href="">
+          <img src="./imagens/ix--dashboard-filled.svg" alt="" />
+          Dashboard
+        </a>
     </div>
   )
 }
