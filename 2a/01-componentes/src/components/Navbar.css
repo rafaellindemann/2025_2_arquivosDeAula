@@ -1,5 +1,5 @@
 .navbar-container{
-    background-color: deeppink;
+    background-color: var(--cor-4);
     height: 70px;
     display: flex;
     justify-content: center;
