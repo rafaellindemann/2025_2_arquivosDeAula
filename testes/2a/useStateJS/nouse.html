@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <div id="divNumero">0</div>
+    <button onclick="adicionar()">+</button>
+    <div id="divCopia">0</div>
+    <script>
+        let numero = 0
+        function adicionar(){
+            numero++
+            document.getElementById('divNumero').innerHTML = numero
+            document.getElementById('divCopia').innerHTML = numero
+        }
+    </script>
+</body>
+</html>
