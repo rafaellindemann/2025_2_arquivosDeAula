@@ -4,6 +4,8 @@ import './Venda523.css'
 function Venda523() {
     const[precoVenda, setPrecoVenda] = useState()
 
+    
+
     function calcularPreco(){
         let precoCompra = Number(prompt("Preço compra: "))
         if(precoCompra < 20){

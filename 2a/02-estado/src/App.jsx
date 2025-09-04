@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 import Venda523 from './components/Venda523'
+import Comp from './components/Comp'
+import Comp2 from './components/Comp2'
 
 function App() {// lembrem de não usar variáveis aqui :D
   const [numero, setNumero] = useState(0)
@@ -19,6 +21,8 @@ function App() {// lembrem de não usar variáveis aqui :D
 
   return (
     <>
+      <Comp2 />
+      <Comp />
       {/* {username && <p>render condicional</p>} */}
 
       {username && 
