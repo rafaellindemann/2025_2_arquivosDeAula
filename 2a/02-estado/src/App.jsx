@@ -3,6 +3,7 @@ import './App.css'
 import Venda523 from './components/Venda523'
 import Comp from './components/Comp'
 import Comp2 from './components/Comp2'
+import Garcom from './components/Garcom'
 
 function App() {// lembrem de não usar variáveis aqui :D
   const [numero, setNumero] = useState(0)
@@ -21,6 +22,7 @@ function App() {// lembrem de não usar variáveis aqui :D
 
   return (
     <>
+      <Garcom />
       <Comp2 />
       <Comp />
       {/* {username && <p>render condicional</p>} */}
