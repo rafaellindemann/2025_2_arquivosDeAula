@@ -1,0 +1,4 @@
+.moedas-container{
+    display: flex;
+    flex-direction: column;
+}
