@@ -2,7 +2,9 @@ import React, { useState } from 'react'
 
 function Garcom() {
     const[resultado, setResultado]=useState()
+    const teste = useState("bergamota")
     function calcularEmprestimo(){
+
         const salario = Number(prompt("Salário: "))
         const emprestimo = Number(prompt("Empréstimo: "))
         const prestacoes = Number(prompt("Número de prestações: "))

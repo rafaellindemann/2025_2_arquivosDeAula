@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+}
