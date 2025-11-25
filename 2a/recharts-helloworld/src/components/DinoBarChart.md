@@ -1,3 +1,4 @@
+https://recharts.github.io/en-US/api/BarChart/
 
 ---
 
@@ -216,6 +217,9 @@ Caso queira deixar o gráfico ainda mais completo:
 4. Usar `layout="vertical"` para barras horizontais quando houver muitos nomes.
 5. Permitir clicar nas barras para abrir detalhes do dino.
 6. Criar um modo “preço vs nível” usando outro gráfico.
+
+https://recharts.github.io/en-US/api/BarChart/
+
 
 ---
 
