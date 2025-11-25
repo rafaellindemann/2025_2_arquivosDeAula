@@ -95,8 +95,9 @@ const vendas = [
   return (
     <>
       <h1 style={{backgroundColor: "#222325ff", color: "white", padding: "1rem", textAlign: "center"}}>Recharts: o Hello World</h1>
+      
       <DinoBarChart dinos={dinos} />
-      <DinoPriceTimeline dinos={dinos} vendas={vendas} />
+      <DinoPriceTimeline dinoId={1} vendas={vendas} />
       <DinoPriceMultiLine dinos={dinos} vendas={vendas} />
     </>
   )
