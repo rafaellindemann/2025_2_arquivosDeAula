@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 function Garcom() {
     const[resultado, setResultado]=useState()
@@ -17,7 +17,6 @@ function Garcom() {
             // alert("Deu ruim")
             setResultado("Empréstimo negado")
         }
-
     }
   return (
     <div>
